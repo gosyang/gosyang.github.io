@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://gosyang.github.io
 date_format: "ordinal"
-title: 
+title: yhl的网络日志
 subtitle: ""
-description: "杨翰林的个人博客"
-keywords: 网志, Zhuang Ma, mzlogin, mazhuang
+description: "yhl的个人博客"
+keywords: 网络日志，yhl
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -84,10 +84,10 @@ repository: gosyang/gosyang.github.io
 # ---------------- #
 github_username: gosyang
 douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+facebook_username: 
+weibo_username: 
+zhihu_username: 
+twitter_username: 
 
 # ---------------- #
 #      Comments    #

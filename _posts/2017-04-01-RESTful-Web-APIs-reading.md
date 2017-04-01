@@ -87,4 +87,4 @@ Location: http://www.youtypeitwepostit.com/api/47210977342911065
 	- 通过collection+json格式，可以统一语义，便于理解
 5. 统一语义 
 	- **`统一成什么？`** 因为这种也是个人定义的
-
+6. 
